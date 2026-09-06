@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة المبيعات والمخازن",
+  "description": "نظام نقاط البيع وإدارة المخازن السحابي والمحلي (Offline-First POS & Inventory System) مع دعم المعاملات الذرية وطابور المزامنة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
