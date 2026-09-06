@@ -1,0 +1,16 @@
+{
+  "background_color": "#ee3b3b",
+  "description": "نظام نقاط البيع وإدارة المخازن السحابي والمحلي (Offline-First POS &amp; Inventory System) مع دعم المعاملات الذرية وطابور المزامنة.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "drabdallahadel.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "drabdallahadel.github",
+  "start_url": "/",
+  "theme_color": "#882f2f",
+  "id": "drabdallahadel.github",
+  "categories": [
+    "finance"
+  ]
+}
